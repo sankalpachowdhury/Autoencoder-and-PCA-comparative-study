@@ -3,3 +3,4 @@ Implementation of the paper "Reducing the Dimensionality of Data with Neural Net
 
 
 https://www.jeremyjordan.me/autoencoders/
+https://blog.keras.io/building-autoencoders-in-keras.html
